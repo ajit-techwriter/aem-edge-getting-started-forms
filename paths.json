@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
     "/content//content/aem-edge-getting-started-forms/:/"
   ]
 }
