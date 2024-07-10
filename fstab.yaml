@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p10652-e203356-cmstg.adobeaemcloud.com/content/aem-edge-getting-started-forms/index.html"
+    url: "https://author-p10652-e203356-cmstg.adobeaemcloud.com/content/aem-edge-getting-started-forms/index"
     type: "markup"
     suffix: ".html"
